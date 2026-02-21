@@ -8,16 +8,23 @@ The key sequence to generate a hexagram is to press the i-ching activation layer
 
 The default activation key is the kpdot (Keypad dot) so,
 
-kpdot+kp0+7 will produce trigram 7 (☷) on top of trigram 0 (☰) ䷊
+kpdot+kp0+7 will produce trigram 0 (☰) on bottom of trigram 7 (☷) on top resulting in ䷊
 
-This is the trigrams
+This are the trigrams
 
-☰ - kp0 as bottom trigram , 0 as top trigram 
-☴ - kp1 as bottom trigram , 1 as top trigram 
-☲ - kp2 as bottom trigram , 2 as top trigram 
-☶ - kp3 as bottom trigram , 3 as top trigram 
-☱ - kp4 as bottom trigram , 4 as top trigram 
-☵ - kp5 as bottom trigram , 5 as top trigram 
-☳ - kp6 as bottom trigram , 6 as top trigram 
-☷ - kp7 as bottom trigram , 7 as top trigram 
+- ☰ - kp0 as bottom trigram , 0 as top trigram 
+
+- ☴ - kp1 as bottom trigram , 1 as top trigram 
+
+- ☲ - kp2 as bottom trigram , 2 as top trigram 
+
+- ☶ - kp3 as bottom trigram , 3 as top trigram 
+
+- ☱ - kp4 as bottom trigram , 4 as top trigram 
+
+- ☵ - kp5 as bottom trigram , 5 as top trigram 
+
+- ☳ - kp6 as bottom trigram , 6 as top trigram 
+
+- ☷ - kp7 as bottom trigram , 7 as top trigram 
 
